@@ -1,0 +1,2 @@
+# Taiyo
+Inventory Management Backend
